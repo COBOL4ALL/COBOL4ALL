@@ -40,7 +40,9 @@ a:visited{
 }
 #instructor > div > img{
     width:15%;
-    background: radial-gradient(transparent 50%, rgb(255, 255, 255) 70%);
+    border-radius: 100%;
+    background-color:antiquewhite;
+    /* background: radial-gradient(transparent 50%, rgb(255, 255, 255) 70%); */
     /* box-shadow: inset -10px -10px 10px 20px white; */
     /* box-shadow: 0 0 30px 30px white inset; */
 /*     -webkit-filter: blur(1px);
